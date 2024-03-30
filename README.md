@@ -15,11 +15,14 @@
 
 ## Current Experience
 
-**Adevu - Software Engineer, Full Time**<br>
-June 2023 - Present
+**Computer Solutions East, Inc- Software Developer, Full Time**<br>
+Mar 2024 - Present
 
-- Currently developing new features for the Hotel Management System Post-MVP release.
-- Actively engaged in identifying and resolving software bugs to enhance the system's functionality and overall user experience.
+• Working on development & enhancement of an internal service tool utilizing Azure DevOps & .NET.
+
+• Leveraged Microsoft Graph API for accessing Microsoft 365 services and incorporated Lighthouse API to enhance software performance monitoring and analytics.
+
+• Engaged in direct collaboration with developers across continents and served international clients.
 
 For more info,  Kindly visit my LinkedIn & Connect with me!
 
