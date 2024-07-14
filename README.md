@@ -15,7 +15,7 @@
 
 ## Current Experience
 
-**Computer Solutions East, Inc - Software Developer, Full Time**<br>
+**Computer Solutions East, Inc - Software Developer**<br>
 Mar 2024 - Present
 
 • Working on development & enhancement of an internal service tool utilizing Azure DevOps & .NET.
