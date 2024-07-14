@@ -50,7 +50,3 @@ For more info,  Kindly visit my LinkedIn & Connect with me!
   <img src="https://media.giphy.com/media/3ofSB1OPjhfMEBbYn6/giphy.gif" alt="Funny GIF">
 </p>
 
-<p align="center">
-  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
