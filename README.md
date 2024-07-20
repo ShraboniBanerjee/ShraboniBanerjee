@@ -15,14 +15,12 @@
 
 ## Current Experience
 
-**Computer Solutions East, Inc - Software Developer**<br>
-Mar 2024 - Present
+**Techbiz Innovator- UI/UX Designer**<br>
+Apr 2024 - Present
 
-• Working on development & enhancement of an internal service tool utilizing Azure DevOps & .NET.
+• Currently working on redesigning the UI/UX of the internal equipment management backend software.
 
-• Leveraged Microsoft Graph API for accessing Microsoft 365 services and incorporated Lighthouse API to enhance software performance monitoring and analytics.
-
-• Engaged in direct collaboration with developers across continents and served international clients.
+•  Designed Restaurant POS system for Australian restaurant business ensuring streamline transactions, manage inventory, facilitate QR code access, accommodate multi-location setups, integrate cloud kitchen functionality, and optimize order management.
 
 For more info,  Kindly visit my LinkedIn & Connect with me!
 
