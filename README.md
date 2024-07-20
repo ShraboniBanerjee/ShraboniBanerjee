@@ -1,5 +1,5 @@
 <h1 align="center">Shraboni Banerjee</h1>
-<h3 align="center">Hey There! I'm a Software Engineer with a passion for crafting efficient solutions. Let's connect on LinkedIn to discuss about technology and innovation</h3>
+<h3 align="center">Hey There! I'm a Software Engineer & UI/UX Designer with a passion for crafting efficient solutions. Let's connect on LinkedIn to discuss about technology and innovation</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@shilpabanerjee">Youtube</a> |
