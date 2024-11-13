@@ -15,10 +15,10 @@
 
 ## Current Experience
 
-**Techbiz Innovator- UI/UX Designer**<br>
+**Techbiz Innovator- Software Engineer - UI**<br>
 Apr 2024 - Present
 
-• Currently working on redesigning the UI/UX of the internal equipment management backend software.
+• Redesigned the frontend ui of the internal equipment management backend software.
 
 •  Designed Restaurant POS system for Australian restaurant business ensuring streamline transactions, manage inventory, facilitate QR code access, accommodate multi-location setups, integrate cloud kitchen functionality, and optimize order management.
 
@@ -30,17 +30,6 @@ For more info,  Kindly visit my LinkedIn & Connect with me!
   <img src="https://media.giphy.com/media/RwODfjVRrYp6XHmFUV/giphy.gif" alt="Funny GIF">
 </p>
 
-
-## My Github Contributions
-
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShraboniBanerjee)  | ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ShraboniBanerjee&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=radical) |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-
-
-## My LeetCode Stats & Most Used Programming Languages
-
-| ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=shilpa08)  | ![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShraboniBanerjee&layout=compact) |
-| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 
 ## Let's code and make the digital world a little more magical
 
