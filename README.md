@@ -15,7 +15,7 @@
 
 ## Current Experience
 
-**Tech Sprint- Software Engineer - UI**<br>
+**Tech Sprint- Software Engineer**<br>
 Apr 2024 - Present
 
 • Redesigned the frontend ui of the internal equipment management backend software.
