@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer with 3+ years building full-stack & mobile products at production scale. Let's connect on LinkedIn to talk tech and innovation!</h3>
 
 <p align="center">
-  <a href="https://codolio.com/profile/mismagius">Coding Profile</a> |
+  <a href="https://codolio.com/profile/mismagius">DSA</a> |
   <a href="https://www.youtube.com/@shilpabanerjee">Youtube</a> |
   <a href="https://linkedin.com/in/shraboni-banerjee-b96253196">LinkedIn</a> |
   <a href="https://www.behance.net/shilpabanerjee">Behance</a> |
