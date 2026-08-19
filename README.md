@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://codolio.com/profile/mismagius">DSA</a> |
+  <a href="https://shrabonibanerjee.github.io/UX-Portfolio/">Portfolio</a> |
   <a href="https://www.youtube.com/@shilpabanerjee">Youtube</a> |
-  <a href="https://linkedin.com/in/shraboni-banerjee-b96253196">LinkedIn</a> |
   <a href="https://www.behance.net/shilpabanerjee">Behance</a> |
   <a href="https://huggingface.co/shilpabanerjee">HuggingFace</a>
 </p>
