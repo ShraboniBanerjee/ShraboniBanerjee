@@ -1,5 +1,5 @@
 <h1 align="center">Shraboni Banerjee</h1>
-<h3 align="center">Software Engineer with 3+ years building full-stack & mobile products at production scale — Swift, React Native, ReactJS, Node.js, Python & Django. Let's connect on LinkedIn to talk tech and innovation!</h3>
+<h3 align="center">Software Engineer with 3+ years building full-stack & mobile products at production scale. Let's connect on LinkedIn to talk tech and innovation!</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@shilpabanerjee">Youtube</a> |
