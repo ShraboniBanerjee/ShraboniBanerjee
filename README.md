@@ -13,7 +13,7 @@
 </p>
 
 ## About Me
-I'm a Software Engineer with 3+ years of experience designing, developing, testing, deploying, and maintaining full-stack and backend software at production scale — across web and mobile (Android, iOS, iPad, web) clients. I care about system design, distributed systems, large-scale data migration, engineering best practices, CI/CD, automated testing, and building accessible, user-facing features.
+I am a Software Engineer with 3+ years of experience designing, developing, testing, deploying and maintaining full-stack and backend software at production scale across web and mobile (Android, iOS, iPad, web) clients. I care about smooth UI/UX, system design, distributed systems, large-scale data migration and building accessible, user-facing features.
 
 ## Current Experience
 **Tech Sprint — Software Engineer** <br>
