@@ -16,34 +16,8 @@
 ## About Me
 I am a Software Engineer with 3+ years of experience designing, developing, testing, deploying and maintaining full-stack and backend software at production scale across web and mobile (Android, iOS, iPad, web) clients. I care about smooth UI/UX, system design, distributed systems, large-scale data migration and building accessible, user-facing features.
 
-## Current Experience
-**Tech Sprint — Software Engineer** <br>
-*Apr 2024 – Present | Swift, SwiftUI, React Native, Node.js, ReactJS*
-
-- Built and shipped **Insights by RestoGenius**, a native iOS app (Swift, SwiftUI, Combine) on the App Store & Google Play, with real-time dashboards for orders, revenue, and staff management.
-- Shipped **RestoGenius Go** and **RestoGenius**, native iOS apps on the App Store, owning UI architecture and REST API integration in SwiftUI for a responsive, no-reload experience across iPhone and iPad.
-- Worked on **RestoGenius**, a hospitality POS live across 10+ Australian venues spanning kiosk, online ordering, and loyalty across iOS, iPad, Android, and web — built the end-to-end ordering flow (menu, cart, combos, payments) into one unified system.
-- Built the **Uber Eats integration**, replacing manual two-place menu syncing, and implemented role-based access and multi-restaurant switching so managers can securely manage data across venues from a single app.
-
-## Past Experience
-**Computer Solutions East Inc. — Software Developer** <br>
-*Mar 2024 – May 2024 | C#, ASP.NET Core, ReactJS, TypeScript, SQL, Azure DevOps*
-- Built full-stack features for a B2B sales intelligence platform surfacing buyer journey stages and high-intent lead signals.
-- Migrated 60,000+ production records into a redesigned PostgreSQL schema via Azure DevOps — zero data loss, zero downtime.
-
-**Adevu — Software Engineer** <br>
-*Jun 2023 – Mar 2024 | Python, Django, ReactJS, Docker, AWS, Robot Framework*
-- Built and deployed frontend and backend modules for a Hotel Management System on AWS/Docker (reservations, room inventory, role-based access).
-- Developed an accessible admin module with in-platform guidance for hotel staff.
-- Built Robot Framework test plans covering 70% of the codebase, with CI/CD failure alerts integrated into Slack.
-
-**Adevu — Frontend Engineer Intern** <br>
-*Dec 2021 – May 2023 | ReactJS, Python, Django, AWS, Figma*
-- Contributed 1000+ lines of production code across core Hotel Management System modules (dashboard, bookings, rates, reporting).
-
-**Techbiz Innovators — Software Engineer Intern** <br>
-*Oct 2021 – Apr 2022 | HTML, CSS, JavaScript, PHP, Figma*
-- Built a responsive 10+ page e-commerce site with product browsing, category filters, and an admin panel for inventory management.
+## Working Experience
+I'm a Software Engineer with 3+ years of experience building full-stack and mobile products at production scale. I've built and shipped native iOS apps (Swift, SwiftUI, Combine) with real-time dashboards for orders, revenue, and staff management, and owned UI architecture and REST API integration for responsive, no-reload experiences across iPhone and iPad. I worked on a hospitality POS live across 10+ Australian venues, spanning kiosk, online ordering, and loyalty across iOS, Android, and web, building an end-to-end ordering flow covering menus, cart, combos, and payments into one unified system, along with a third-party delivery integration and role-based, multi-location access controls. On the backend, I've built full-stack features for a B2B sales intelligence platform, migrated 60,000+ production records into a redesigned PostgreSQL schema with zero downtime, and developed and deployed frontend and backend modules for a hotel management system covering reservations, inventory, and accessible admin tooling — backed by automated test coverage across 70% of the codebase and CI/CD failure alerts. I've also built responsive e-commerce interfaces with product browsing, filtering, and admin inventory management.
 
 ## Tech Stack
 **Languages:** Python, C++
